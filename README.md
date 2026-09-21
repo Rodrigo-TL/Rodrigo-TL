@@ -14,6 +14,8 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atualmente est
 
 Meu foco profissional é o desenvolvimento **Backend com Java**, com aprofundamento no ecossistema **Spring**, desenvolvimento de APIs REST, persistência de dados e bancos de dados relacionais.
 
+Também possuo formação em **Desenvolvimento Java pelo SENAI**, onde desenvolvi projetos práticos utilizando tecnologias do ecossistema Java e Spring.
+
 Busco evoluir continuamente por meio de projetos práticos, estudos e aplicação de boas práticas de desenvolvimento de software.
 
 ---
